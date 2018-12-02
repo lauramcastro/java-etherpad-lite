@@ -88,6 +88,11 @@
       <artifactId>graphwalker-java</artifactId>
       <version>3.4.2</version>
     </dependency>
+    <dependency>
+      <groupId>com.google.code.jetm</groupId>
+      <artifactId>jetm-maven-plugin</artifactId>
+      <version>1.0.2</version>
+    </dependency>
   </dependencies>
 
 
